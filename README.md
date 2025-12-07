@@ -9,3 +9,6 @@ REST API for robot registration, status updates, retrieval, logs, and vision res
 - `GET /robots/:id/logs` - get logs for a robot
 - `POST /vision/results` - store vision result. JSON: `{ robotId, result, meta? }`
 - `GET /vision/results` - list all vision results
+
+## Systen Diagram
+    
