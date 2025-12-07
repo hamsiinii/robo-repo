@@ -12,3 +12,4 @@ REST API for robot registration, status updates, retrieval, logs, and vision res
 
 ## Systen Diagram
     
+<img width="1024" height="768" alt="img" src="https://github.com/user-attachments/assets/40110d07-a23a-413c-b1de-d97769195443" />
