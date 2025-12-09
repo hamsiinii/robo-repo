@@ -48,7 +48,8 @@ robo-repo/
 ### Setup
 
 1. **Clone or download the project**
-```bash cd robo-repo
+```bash
+   cd robo-repo
 ```
 
 2. **Install dependencies**
